@@ -1,9 +1,10 @@
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:38BDF8&height=260&section=header&text=Pallavi%20Mohapatra&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20|%20AI%20%26%20ML%20Graduate%20|%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,50:2563EB,100:38BDF8&text=Pallavi%20Mohapatra&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20•%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=62"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pallavi+Mohapatra;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Analytics;Machine+Learning+Enthusiast;Open+To+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+I'm+Pallavi+Mohapatra;Data+Analyst;Building+Business+Insights;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Open+to+Work"/>
 </p>
 
 <p align="center">
@@ -14,63 +15,66 @@
 
 # 👋 About Me
 
-```typescript
-const pallavi = {
-  role: "Data Analyst",
-  education: "B.Tech in AI & ML",
-  location: "India",
-  languages: ["Python","SQL"],
-  analytics:["Power BI","Excel","Pandas","NumPy","Matplotlib"],
-  ml:["Scikit-Learn","TensorFlow"],
-  tools:["Git","GitHub","VS Code","Jupyter","Streamlit"],
-  focus:["Business Intelligence","Data Analytics","Machine Learning"],
-  status:"Open to Data Analyst Opportunities"
-}
-```
+🎓 AI & ML Graduate  
+📊 Aspiring Data Analyst passionate about turning raw data into actionable insights.  
+💻 Working with **Python, SQL, Power BI, Excel, Pandas, NumPy, Scikit-Learn, Streamlit**.  
+🚀 Building portfolio projects in analytics, forecasting, dashboards and business intelligence.
 
-# 🚀 Featured Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| AI Business Dashboard | Interactive Streamlit analytics dashboard |
-| Zomato Delivery Analytics | SQL + Python + Power BI analytics |
-| SQL E-Commerce Analytics | End-to-end analytics project |
-| Business Performance Analysis | KPI and growth insights |
-| Natural Gas Price Forecasting | Forecasting with Python |
-
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,tensorflow,sklearn"/>
 </p>
 
-## 📊 GitHub Stats
+---
+
+# 🚀 Featured Projects
+
+| Project | Highlights |
+|---|---|
+| 🤖 AI Business Dashboard | Interactive Streamlit dashboard with KPIs |
+| 🍔 Zomato Delivery Analytics | SQL + Python + Power BI |
+| 🛒 SQL E-Commerce Analytics | Business insights & reporting |
+| 📈 Business Performance Analysis | KPI dashboard & trends |
+| ⛽ Natural Gas Forecasting | Time-series forecasting |
+
+> ⭐ Pin these repositories on your GitHub profile.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🔥 Streak
+# 🔥 Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pallavii56&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Pallavii56&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&no-frame=true&column=4"/>
 </p>
 
-## 📈 Contribution Graph
-
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=tokyo-night)](https://github.com/Pallavii56)
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/pallavi-mohapatra-ml/
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F4C81&height=120&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=tokyo-night"/>
+</p>
+
+# 📫 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38BDF8,50:2563EB,100:0F4C81"/>
 </p>
