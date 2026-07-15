@@ -80,7 +80,6 @@
 ⭐ Pin these repositories on your GitHub profile.
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
