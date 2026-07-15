@@ -1,79 +1,34 @@
-<h1 align="center">Hi 👋, I'm Pallavi Mohapatra</h1>
-<h3 align="center">Data Analyst | AI & ML Graduate | Python • SQL • Power BI</h3>
+# Hi 👋 I'm Pallavi Mohapatra
 
-<p align="center">
-  Passionate about transforming raw data into meaningful business insights through analytics, visualization, and machine learning.
-</p>
+See generated profile template in chat.
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:38BDF8&height=250&section=header&text=Pallavi%20Mohapatra&fontSize=45&fontColor=ffffff&animation=twinkling"/></p>
 
-## 👩‍💻 About Me
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning;Open+To+Work"/></p>
 
-- 🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analytics, Business Intelligence & Machine Learning
-- 🌱 Currently improving my SQL, Power BI, and Python skills
-- 💼 Open to Data Analyst and Business Analyst opportunities
-- 📍 India
-
----
-
-## 🚀 Featured Projects
-
-### 📊 AI Business Dashboard
-Interactive dashboard built using Python and Streamlit for KPI visualization.
-
-### 🍔 Zomato Delivery Data Analysis
-End-to-end analytics project using Python, SQL, Excel, and Power BI.
-
-### 🛒 SQL + Python E-Commerce Analytics
-Business analytics project using SQL, Python, and Power BI.
-
-### 💳 Loan Default Prediction
-Machine learning model to predict loan defaults and estimate expected loss.
-
-### ⛽ Natural Gas Price Forecasting
-Time-series forecasting model using Python and statistical analysis.
-
----
+## 👩‍💻 Who Am I?
+```ts
+const pallavi={role:"Data Analyst",education:"B.Tech AI & ML",skills:["Python","SQL","Power BI","Pandas","NumPy","Scikit-Learn"],status:"Open to Work"}
+```
 
 ## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,sklearn,tensorflow"/>
 
-**Languages**
-- Python
-- SQL
-
-**Libraries**
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-
-**Tools**
-- Power BI
-- Excel
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Streamlit
-
----
-
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pallavii56&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight)
 
----
+## 🔥 Streak
+![](https://github-readme-streak-stats.herokuapp.com?user=Pallavii56&theme=tokyonight)
 
-## 📫 Connect with Me
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&no-frame=true)
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pallavi-mohapatra-ml/
-- 📧 Email: YOUR_EMAIL_HERE
+## 📈 Contribution Graph
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=react-dark)](https://github.com/Pallavii56)
 
----
+## 📫 LinkedIn
+https://www.linkedin.com/in/pallavi-mohapatra-ml/
 
-⭐ Thanks for visiting my profile!
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:38BDF8,50:2563EB,100:0F4C81"/></p>
