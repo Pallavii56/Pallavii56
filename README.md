@@ -101,17 +101,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
