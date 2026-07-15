@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pallavi Mohapatra
 
-See generated profile template in chat.
+
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:38BDF8&height=250&section=header&text=Pallavi%20Mohapatra&fontSize=45&fontColor=ffffff&animation=twinkling"/></p>
 
