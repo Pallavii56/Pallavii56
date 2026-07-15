@@ -83,13 +83,19 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pallavii56&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pallavii56&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pallavii56&theme=tokyonight"/>
+
+</div>
 
 ---
 
