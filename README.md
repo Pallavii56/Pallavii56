@@ -1,34 +1,88 @@
-# Hi 👋 I'm Pallavi Mohapatra
+# Hi 👋, I'm **Pallavi Mohapatra**
 
+::: {align="center"}
+# AI & Machine Learning Graduate \| Data Analyst \| Open to Work
 
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+ML+Graduate;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Open+to+Work"/>`{=html}
+:::
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:38BDF8&height=250&section=header&text=Pallavi%20Mohapatra&fontSize=45&fontColor=ffffff&animation=twinkling"/></p>
+------------------------------------------------------------------------
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning;Open+To+Work"/></p>
+## 👩‍💻 About Me
 
-## 👩‍💻 Who Am I?
-```ts
-const pallavi={role:"Data Analyst",education:"B.Tech AI & ML",skills:["Python","SQL","Power BI","Pandas","NumPy","Scikit-Learn"],status:"Open to Work"}
-```
+🎓 B.Tech in Computer Science Engineering (AI & ML)
 
-## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,sklearn,tensorflow"/>
+📊 Passionate about Data Analytics, Machine Learning and Business
+Intelligence.
 
-## 📊 GitHub Stats
+💡 Interested in solving real-world problems using AI, Python, SQL and
+Power BI.
+
+🌱 Currently learning Deep Learning, LLMs and Cloud technologies.
+
+🚀 Looking for Data Analyst, AI/ML Engineer and Business Intelligence
+roles.
+
+------------------------------------------------------------------------
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • SQL • C++ • HTML • CSS • JavaScript
+
+### Data Science
+
+Pandas • NumPy • Scikit-Learn • TensorFlow • Flask • Streamlit
+
+### Databases
+
+MySQL
+
+### Tools
+
+Power BI • Git • GitHub • VS Code • Jupyter Notebook
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+### 🛡 CyberShield
+
+AI-powered Cyberbullying Detection System using NLP & Machine Learning.
+
+### 📊 E-Commerce Analytics Dashboard
+
+SQL + Python + Power BI dashboard for business insights.
+
+### 🎵 AuraSync Music Recommender
+
+Content-based recommendation engine using TF-IDF & Cosine Similarity.
+
+### 📈 AI Business Dashboard
+
+Interactive Streamlit dashboard for CSV analytics and visualization.
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight)
 
-## 🔥 Streak
-![](https://github-readme-streak-stats.herokuapp.com?user=Pallavii56&theme=tokyonight)
+------------------------------------------------------------------------
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&no-frame=true)
+# 📫 Connect With Me
 
-## 📈 Contribution Graph
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=react-dark)](https://github.com/Pallavii56)
+-   💼 LinkedIn: https://www.linkedin.com/in/pallavi-mohapatra-ml/
+-   🐙 GitHub: https://github.com/Pallavii56
+-   📧 Email: your-email@example.com
 
-## 📫 LinkedIn
-https://www.linkedin.com/in/pallavi-mohapatra-ml/
+------------------------------------------------------------------------
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:38BDF8,50:2563EB,100:0F4C81"/></p>
+::: {align="center"}
+⭐ If you like my projects, consider giving them a star!
+
+![](https://komarev.com/ghpvc/?username=Pallavii56&label=Profile+Views&color=0e75b6&style=flat)
+:::
