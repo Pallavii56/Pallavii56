@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3C72,100:2A7FFF&text=Pallavi%20Mohapatra&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Pallavi%20Mohapatra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=58"/>
 
 # Hi 👋 I'm Pallavi Mohapatra
 
-### Turning raw data into meaningful business insights.
+### Turning Data into Actionable Business Insights
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2A7FFF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Dashboard+Creator;Machine+Learning+Graduate)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Dashboard+Builder;Machine+Learning+Graduate;Always+Learning+New+Things"/>
 
-![](https://komarev.com/ghpvc/?username=Pallavii56&color=2A7FFF&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Pallavii56&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -16,75 +16,91 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning
+🎓 **B.Tech Graduate in Artificial Intelligence & Machine Learning**
 
-📊 Passionate about solving business problems using data.
+📊 Passionate about solving business problems through data.
 
-💻 Skilled in **Python, SQL, Power BI, Excel and Machine Learning**
+💡 I enjoy transforming raw datasets into dashboards, reports, and actionable insights.
 
-📈 Interested in
+🚀 Currently expanding my portfolio with real-world analytics and forecasting projects.
 
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
-- Forecasting
-- SQL Analytics
-- Data Visualization
+📍 India
 
-🚀 Currently building real-world analytics projects.
+---
+
+# 🚀 Current Focus
+
+- 📊 Advanced SQL
+- 📈 Power BI Dashboards
+- 🏢 Business Intelligence
+- ⚡ Analytics Engineering
+- 📉 Forecasting & Time-Series Analysis
+- 💼 Open to Data Analyst Opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,sklearn,flask"/>
-
-</p>
+## Languages
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,powerbi,jupyter"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 </p>
 
----
+## Data Analytics
 
-# 📌 Current Focus
+<p align="center">
 
-✔ Advanced SQL
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
 
-✔ Power BI Dashboards
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-✔ Analytics Engineering
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-✔ Time-Series Forecasting
+</p>
 
-✔ Business Analytics Projects
+## Machine Learning
 
-✔ Open to Data Analyst Opportunities
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow"/>
+
+</p>
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 📊 AI Business Dashboard | Interactive Streamlit Dashboard with KPI Analytics |
-| 🍔 Zomato Delivery Analytics | SQL + Python + Power BI End-to-End Analytics |
-| 🛒 SQL E-Commerce Analytics | Customer & Sales Analytics using SQL |
-| 📈 Business Performance Analysis | Revenue, KPI & Trend Dashboard |
-| ⛽ Natural Gas Forecasting | Time-Series Forecasting using Python |
+| Project | Tech Stack | Highlights |
+|----------|------------|------------|
+| 🤖 AI Business Dashboard | Python • Streamlit | KPI Dashboard & Interactive Analytics |
+| 🍔 Zomato Delivery Analytics | SQL • Python • Power BI | Delivery Performance Dashboard |
+| 🛒 SQL E-Commerce Analytics | SQL • Python | Business Reporting & Customer Analytics |
+| 📈 Business Performance Analysis | Python • Excel | KPI Analysis & Revenue Insights |
+| ⛽ Natural Gas Forecasting | Python • Pandas | Time-Series Forecasting |
 
-⭐ Pin these repositories on your GitHub profile.
+⭐ **Pin these repositories on your GitHub profile.**
 
 ---
-# 📊 GitHub Analytics
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" height="170">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -97,12 +113,23 @@
 
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&column=4&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -112,12 +139,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pallavi-mohapatra-ml">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -126,8 +153,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Data tells a story—my goal is to uncover it through analytics."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3C72,100:2A7FFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
