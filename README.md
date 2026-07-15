@@ -91,19 +91,7 @@
 
 ⭐ **Pin these repositories on your GitHub profile.**
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -113,17 +101,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pallavii56&theme=algolia&column=4&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -153,7 +130,7 @@
 
 <div align="center">
 
-### 💡 "Data tells a story—my goal is to uncover it through analytics."
+### 💡 "Data tells a story, my goal is to uncover it through analytics."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
