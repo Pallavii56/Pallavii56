@@ -89,7 +89,7 @@
 | 📈 Business Performance Analysis | Python • Excel | KPI Analysis & Revenue Insights |
 | ⛽ Natural Gas Forecasting | Python • Pandas | Time-Series Forecasting |
 
-⭐ **Pin these repositories on your GitHub profile.**
+
 
 
 
