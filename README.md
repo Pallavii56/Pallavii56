@@ -1,208 +1,247 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111A,45:102A36,100:1E5666&height=280&section=header&text=PALLAVI%20MOHAPATRA&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20ANALYTICS&descAlignY=59&descSize=17"/>
+# PALLAVI MOHAPATRA
+
+### Data Analyst · Business Intelligence · AI Analytics
+
+**I turn raw data into analysis, dashboards, automation and business decisions.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=2C9AA8&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+business+insights;Building+dashboards%2C+automation+%26+AI+analytics;Data+Quality+%7C+Business+Analytics+%7C+BI" />
-
-<br><br>
-
 <a href="https://github.com/Pallavii56">
-<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pallavii56&label=PROFILE%20VIEWS&color=2C9AA8&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=2C9AA8&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Business+Analytics+%7C+Data+Quality+%7C+Automation;Building+AI-powered+analytics+applications;From+data+to+insight+to+action" />
 
 </div>
 
 ---
 
-# `01` · ABOUT
+<div align="center">
+
+|       **9+**       |   **50K+**   |      **35**      |       **22+**       |        **4**        |
+| :----------------: | :----------: | :--------------: | :-----------------: | :-----------------: |
+| Analytics Projects | Ride Records | Dataset Features | Engineered Features | Power BI Dashboards |
+
+</div>
+
+---
+
+# ABOUT
+
+I'm **Pallavi Mohapatra**, a B.Tech graduate in **Artificial Intelligence & Machine Learning** focused on **Data Analytics, Business Intelligence and reporting automation**.
+
+I enjoy working at the point where **data meets business decisions**.
+
+My projects involve:
+
+`Data Cleaning` · `SQL Analysis` · `Python Analytics` · `KPI Development` · `Power BI` · `Excel Reporting` · `Data Quality` · `Automation` · `AI Analytics`
+
+I'm particularly interested in understanding **why something happened**, identifying patterns in data and turning those findings into something a business can actually use.
+
+### Currently seeking
+
+**Data Analyst · Junior Data Analyst · Business Analyst · MIS Analyst · Reporting Analyst · BI Analyst**
+
+📍 India
+
+---
+
+# WHAT I BUILD
+
+<div align="center">
 
 <table>
 <tr>
-<td width="65%">
 
-## Hi, I'm Pallavi 👋
+<td align="center" width="25%">
 
-I'm a **B.Tech graduate in Artificial Intelligence & Machine Learning** focused on **Data Analytics, Business Intelligence and reporting automation**.
+### 📊
 
-I enjoy taking raw, messy datasets and turning them into **clean analysis, meaningful KPIs, interactive dashboards and business recommendations**.
+**ANALYTICS**
 
-My work combines:
-
-**Python + SQL + Excel + Power BI + Business Thinking**
-
-I'm also exploring **AI-powered analytics**, including natural-language SQL, automated insights and intelligent reporting workflows.
-
-<br>
-
-### What I care about
-
-`DATA QUALITY` · `BUSINESS INSIGHTS` · `AUTOMATION` · `DASHBOARDS` · `AI ANALYTICS`
+Python
+Pandas
+NumPy
+SQL
 
 </td>
 
-<td width="35%" align="center">
+<td align="center" width="25%">
 
-### PROFILE
+### 📈
 
-🎓 B.Tech AI & ML
+**BUSINESS INTELLIGENCE**
 
-📊 Data Analytics
+Power BI
+Excel
+KPIs
+Reporting
 
-📈 Business Intelligence
+</td>
 
-🐍 Python
+<td align="center" width="25%">
 
-🗄️ SQL
+### ⚙️
 
-📊 Power BI
+**AUTOMATION**
 
-📑 Excel
+Data Workflows
+Excel Reports
+Email Reports
+Validation
 
-🤖 AI Analytics
+</td>
 
-📍 India
+<td align="center" width="25%">
+
+### 🤖
+
+**AI ANALYTICS**
+
+Natural Language SQL
+AI Insights
+Groq
+Streamlit
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# FEATURED PROJECTS
+
+## 01 — AI SQL BUSINESS ANALYST
+
+### **Natural Language → SQL → KPIs → Visualizations → Insights**
+
+> **Ask a business question in plain English. Get an analytical answer.**
+
+An AI-powered business analytics application that converts natural-language questions into SQL queries and transforms the results into **KPIs, visualizations, AI-generated insights and downloadable reports**.
+
+<table>
+<tr>
+<td width="55%">
+
+### What it does
+
+**01** Ask a question in natural language
+
+**02** Generate SQL using Groq
+
+**03** Validate SQL for safety
+
+**04** Execute the query
+
+**05** Generate KPIs and charts
+
+**06** Produce business insights
+
+**07** Export Excel / PDF reports
+
+</td>
+
+<td width="45%">
+
+### Built With
+
+`Python`
+
+`SQL`
+
+`SQLite`
+
+`Pandas`
+
+`Matplotlib`
+
+`Streamlit`
+
+`Groq`
+
+<br>
+
+### Category
+
+**AI + Business Intelligence**
 
 </td>
 </tr>
 </table>
 
----
-
-# `02` · WHAT I BUILD
-
 <div align="center">
 
-|     📊 ANALYZE    |    📈 VISUALIZE   |   ⚙️ AUTOMATE  |    🤖 INTELLIGENT    |
-| :---------------: | :---------------: | :------------: | :------------------: |
-|       Python      |      Power BI     |      Excel     | Natural Language SQL |
-|        SQL        |     Dashboards    |    Reporting   |      AI Insights     |
-|       Pandas      |        KPIs       |  Email Reports |         Groq         |
-| Business Analysis | Data Storytelling | Data Workflows |       Streamlit      |
+### PROJECT PREVIEW
 
-</div>
+**Replace this area with a screenshot of your Streamlit application**
 
----
-
-# `03` · FEATURED WORK
-
-<div align="center">
-
-### Selected projects from my analytics portfolio
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-<h2>01</h2>
-
-# 🤖 AI SQL
-
-# BUSINESS ANALYST
-
-### Ask in English.
-
-### Get SQL. Get Insights.
-
-An AI-powered analytics application that converts natural-language business questions into SQL queries, KPIs, visualizations and AI-generated business insights.
-
-**Built for:**
-Business users who want answers from data without manually writing SQL.
-
-**Core Stack**
-
-`Python` `SQL` `SQLite`
-`Pandas` `Streamlit` `Groq`
+`[ YOUR AI SQL DASHBOARD SCREENSHOT ]`
 
 <br>
 
 <a href="https://github.com/Pallavii56/Ai-sql-business-analyst">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ai-sql-business-analyst-tfzymlexfkydkudeh7sg5f.streamlit.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-### APPLICATION PREVIEW
-
-<br><br>
-
-<img src="https://dummyimage.com/700x430/0b1117/2c9aa8&text=AI+SQL+BUSINESS+ANALYST" width="90%"/>
-
-<br><br>
-
-**Natural Language → SQL → Analysis → Visualization → Insight**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center">
+# 02 — RAPIDO RIDE INTELLIGENCE
 
-### DASHBOARD PROJECT
+### **50,000 rides · 35 features · 22+ engineered features · 4 Power BI dashboards**
 
-<br><br>
+An end-to-end operations analytics project designed to understand **revenue, customer behavior, cancellations, demand patterns and ride performance**.
 
-<img src="https://dummyimage.com/700x430/0b1117/2c9aa8&text=RAPIDO+RIDE+INTELLIGENCE" width="90%"/>
+<div align="center">
 
-<br><br>
+|      DATASET     |    ENGINEERING   |        BI        |
+| :--------------: | :--------------: | :--------------: |
+| **50,000 rides** | **22+ features** | **4 dashboards** |
+|    35 features   |  Python + Pandas |     Power BI     |
+|  MySQL database  |   Data cleaning  |   Business KPIs  |
 
-**50,000 rides · 35 features · 4 dashboards**
+</div>
 
-</td>
+### Business Questions
 
-<td width="50%">
+**Revenue**
+How is ride revenue distributed across services and customer segments?
 
-<h2>02</h2>
+**Demand**
+When are peak periods and how does demand change?
 
-# 🚖 RAPIDO
+**Operations**
+Where are cancellations and service issues concentrated?
 
-# RIDE INTELLIGENCE
+**Customers**
+What patterns can be found in customer behavior?
 
-### Understanding ride demand, revenue & operations.
+**Technology**
 
-An end-to-end ride analytics project analyzing **50,000 ride records and 35 features** to understand customer behavior, revenue, cancellations, demand and operational performance.
+`Python` `Pandas` `NumPy` `SQL` `MySQL` `Power BI`
 
-### PROJECT SCALE
+<div align="center">
 
-**50,000**
-Ride Records
+### DASHBOARD PREVIEW
 
-**35**
-Original Features
+**Replace this area with your actual Power BI screenshot**
 
-**22+**
-Engineered Features
-
-**4**
-Power BI Dashboards
-
-**Core Stack**
-
-`Python` `SQL` `MySQL`
-`Pandas` `NumPy` `Power BI`
+`[ YOUR RAPIDO POWER BI DASHBOARD ]`
 
 <br>
 
@@ -210,86 +249,75 @@ Power BI Dashboards
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+# 03 — ENTERPRISE DATA QUALITY MONITORING
 
-<h2>03</h2>
+### **Detect bad data before it reaches the dashboard.**
 
-# 🧹 ENTERPRISE
+A data quality monitoring system designed to identify common data problems before they affect **reporting, analytics or downstream workflows**.
 
-# DATA QUALITY
+<div align="center">
 
-### Catch bad data before it reaches the dashboard.
+|    🔍 DETECT    |     📊 MEASURE     |     📑 REPORT     |
+| :-------------: | :----------------: | :---------------: |
+|  Missing Values |    Quality Score   |    Excel Report   |
+|    Duplicates   |    Quality Grade   |   KPI Dashboard   |
+|  Invalid Dates  |       A+ → D       | Business Insights |
+| Negative Values |   Dataset Health   |  Automated Output |
+|     Outliers    | Validation Results | Executive Summary |
 
-A data quality monitoring system designed to identify common problems before they affect reporting, dashboards or downstream analytics.
+</div>
 
-### DETECTS
+### Validation Framework
 
-`Missing Values`
-`Duplicates`
-`Invalid Dates`
-`Negative Values`
-`Outliers`
+```text
+RAW DATA
+   │
+   ├── Missing Values
+   ├── Duplicate Records
+   ├── Invalid Dates
+   ├── Negative Values
+   └── Statistical Outliers
+          │
+          ↓
+   DATA QUALITY SCORE
+          │
+          ↓
+     QUALITY GRADE
+       A+ → D
+          │
+          ↓
+   BUSINESS REPORT
+```
 
-### OUTPUT
+**Technology**
 
-**Data Quality Score**
+`Python` `Pandas` `NumPy` `Excel` `XlsxWriter` `OpenPyXL`
 
-**A+ → D Quality Grade**
+<div align="center">
 
-**Automated Excel Report**
+### REPORT PREVIEW
 
-**Executive KPI Dashboard**
+**Replace this area with your actual Excel / dashboard screenshot**
 
-**Core Stack**
-
-`Python` `Pandas` `NumPy`
-`Excel` `XlsxWriter` `OpenPyXL`
+`[ YOUR DATA QUALITY REPORT SCREENSHOT ]`
 
 <br>
 
 <a href="https://github.com/Pallavii56/enterprise-data-quality-monitoring-system">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td width="50%" align="center">
-
-### DATA QUALITY REPORT
-
-<br><br>
-
-<img src="https://dummyimage.com/700x430/0b1117/2c9aa8&text=DATA+QUALITY+MONITORING" width="90%"/>
-
-<br><br>
-
-**Validate → Score → Grade → Report**
-
-</td>
-</tr>
-</table>
-
-> **Note:** Replace the three preview images above with actual screenshots from your projects. The placeholder images are intentionally only visual placeholders.
-
----
-
-# `04` · MORE PROJECTS
-
-<div align="center">
-
-### Business Analytics · Operations · Customer Intelligence · Automation
 
 </div>
 
-<br>
+---
+
+# PROJECT LAB
+
+### More analytics projects across business, operations, customers and automation.
 
 <table>
 <tr>
@@ -300,19 +328,18 @@ A data quality monitoring system designed to identify common problems before the
 
 ### Growth & Profitability Analytics
 
-Understanding customer value, profitability, discount impact and regional performance.
+Customer value, profitability, discount strategy and regional performance.
 
-**Focus**
+**Analysis**
 
-`RFM` · `Revenue` · `Profitability`
-`Customer Segmentation` · `Power BI`
+`RFM` · `Revenue` · `Profitability` · `Customer Segmentation`
 
 **Stack**
 
 `Python` `Pandas` `NumPy` `Power BI` `Excel`
 
 <a href="https://github.com/Pallavii56/Business-Performance-Growth-Analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -323,19 +350,18 @@ Understanding customer value, profitability, discount impact and regional perfor
 
 ### Automated Reporting System
 
-Cleans sales data, generates KPIs, builds Excel reports and automatically delivers reports through email.
+Automated sales cleaning, KPI generation, Excel reporting and email delivery.
 
-**Focus**
+**Analysis**
 
-`Reporting` · `Automation` · `KPIs`
-`Excel Dashboards` · `Email Automation`
+`KPIs` · `Regional Sales` · `Customers` · `Products`
 
 **Stack**
 
 `Python` `Pandas` `Excel` `SMTP`
 
 <a href="https://github.com/Pallavii56/Smart-Sales-Reporting-System">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -346,23 +372,22 @@ Cleans sales data, generates KPIs, builds Excel reports and automatically delive
 
 <td width="50%">
 
-## 🍔 ZOMATO
+## 🍔 ZOMATO DELIVERY
 
-### Delivery Data Analytics
+### Operations Analytics
 
-Analyzing traffic, weather, preparation time, peak hours and city-level performance to understand delivery efficiency.
+Understanding the factors affecting food delivery time and operational efficiency.
 
-**Focus**
+**Analysis**
 
-`Operations` · `Delivery Time`
-`Traffic` · `Weather` · `Power BI`
+`Traffic` · `Weather` · `Peak Hours` · `City Performance`
 
 **Stack**
 
 `Python` `SQL` `MySQL` `Power BI`
 
 <a href="https://github.com/Pallavii56/zomato-delivery-data-analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -371,21 +396,20 @@ Analyzing traffic, weather, preparation time, peak hours and city-level performa
 
 ## 🛒 E-COMMERCE
 
-### SQL + Python Analytics
+### Customer & Revenue Analytics
 
-Analyzing revenue, customer behavior, products, repeat purchases and customer value.
+Analyzing purchasing behavior, product performance, revenue and customer value.
 
-**Focus**
+**Analysis**
 
-`Customer Analytics` · `RFM`
-`Revenue` · `Products` · `Retention`
+`RFM` · `Repeat Customers` · `Revenue` · `Products`
 
 **Stack**
 
 `SQL` `MySQL` `Python` `Power BI`
 
 <a href="https://github.com/Pallavii56/SQL-Python-Real-World-E-Commerce-Analytics-Project">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -400,18 +424,18 @@ Analyzing revenue, customer behavior, products, repeat purchases and customer va
 
 ### Interactive Self-Service Analytics
 
-Upload a CSV and explore KPIs, revenue, categories and monthly trends through an interactive dashboard.
+Upload a dataset and explore KPIs, revenue, category performance and trends.
 
 **Stack**
 
 `Python` `Streamlit` `Pandas` `Plotly`
 
 <a href="https://github.com/Pallavii56/AI-business-dashboard">
-<img src="https://img.shields.io/badge/CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ai-business-dashboard-jymvaydp95wyqvuxm7nn7u.streamlit.app/">
-<img src="https://img.shields.io/badge/DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 </td>
@@ -424,17 +448,16 @@ Upload a CSV and explore KPIs, revenue, categories and monthly trends through an
 
 Historical price analysis and future price estimation using interpolation techniques.
 
-**Focus**
+**Analysis**
 
-`Time Series` · `Forecasting`
-`Trend Analysis` · `Visualization`
+`Time Series` · `Trend Analysis` · `Forecasting`
 
 **Stack**
 
 `Python` `Pandas` `NumPy` `SciPy`
 
 <a href="https://github.com/Pallavii56/Natural-Gas-Price-Forecasting">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -444,197 +467,144 @@ Historical price analysis and future price estimation using interpolation techni
 
 ---
 
-# `05` · MY ANALYTICS STACK
+# POWER BI · DASHBOARD GALLERY
 
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-### DATA & BI
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
+### Business dashboards built to answer business questions, not just display charts.
 
 <br>
 
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+|           PROJECT           |                 DASHBOARD FOCUS                 |
+| :-------------------------: | :---------------------------------------------: |
+|        🚖 **Rapido**        |     Revenue · Rides · Cancellations · Demand    |
+|        🍔 **Zomato**        |  Delivery Time · Traffic · Weather · Operations |
+|      🛒 **E-Commerce**      |       Revenue · Customers · Products · RFM      |
+| 📈 **Business Performance** | Profitability · Discounts · Regions · Customers |
+
+</div>
+
+<br>
+
+> **Tip:** Add screenshots here later. A 2×2 gallery of your real Power BI dashboards will make this section dramatically stronger.
+
+---
+
+# DATA → DECISION
+
+<div align="center">
+
+```text
+┌────────────────┐
+│ BUSINESS NEED  │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│     DATA       │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ CLEAN + VALIDATE│
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ ANALYZE        │
+│ Python + SQL   │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ KPIs + METRICS │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ POWER BI/EXCEL │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ BUSINESS       │
+│ INSIGHTS       │
+└───────┬────────┘
+        ↓
+┌────────────────┐
+│ ACTION         │
+└────────────────┘
+```
+
+</div>
+
+---
+
+# TOOLKIT
+
+<div align="center">
+
+### DATA
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+### BUSINESS INTELLIGENCE
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+### VISUALIZATION
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
 ### AI & DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GROQ-000000?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</div>
-
----
-
-# `06` · WHAT I CAN DO
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🐍
-
-**PYTHON**
-
-EDA
-Cleaning
-Automation
-Analysis
-
-</td>
-
-<td align="center" width="20%">
-
-### 🗄️
-
-**SQL**
-
-Queries
-Joins
-Aggregations
-Business Analysis
-
-</td>
-
-<td align="center" width="20%">
-
-### 📊
-
-**POWER BI**
-
-KPIs
-Dashboards
-Reports
-Insights
-
-</td>
-
-<td align="center" width="20%">
-
-### 📑
-
-**EXCEL**
-
-Reporting
-Automation
-Validation
-Dashboards
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤖
-
-**AI ANALYTICS**
-
-NL → SQL
-AI Insights
-Groq
-Streamlit
-
-</td>
-</tr>
-</table>
-
----
-
-# `07` · HOW I SOLVE A DATA PROBLEM
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01%20BUSINESS%20QUESTION-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/02%20DATA%20COLLECTION-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/03%20CLEAN%20%26%20VALIDATE-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/04%20ANALYZE-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/05%20KPI-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/06%20DASHBOARD-0B1117?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/07%20INSIGHT-2C9AA8?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/08%20ACTION-2C9AA8?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> **Data is useful when it helps someone make a better decision.**
+<img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 </div>
 
 ---
 
-# `08` · EDUCATION & CERTIFICATIONS
+# EDUCATION
 
-<table>
-<tr>
-<td width="50%">
+### 🎓 B.Tech — Artificial Intelligence & Machine Learning
 
-### 🎓 EDUCATION
-
-**B.Tech — Artificial Intelligence & Machine Learning**
-
-VIVA Institute of Technology
-
-</td>
-
-<td width="50%">
-
-### 📜 LEARNING
-
-📊 Cisco Data Analytics Essentials
-🤖 Machine Learning & Deep Learning Fundamentals
-📈 Power BI & Business Intelligence
-🗄️ SQL & Database Analytics
-🐍 Python for Data Analytics
-
-</td>
-</tr>
-</table>
+**VIVA Institute of Technology**
 
 ---
 
-# `09` · GITHUB ACTIVITY
+# CERTIFICATIONS & LEARNING
+
+| Area           | Learning                                      |
+| -------------- | --------------------------------------------- |
+| 📊 Analytics   | Cisco Data Analytics Essentials               |
+| 🤖 AI / ML     | Machine Learning & Deep Learning Fundamentals |
+| 📈 BI          | Power BI & Business Intelligence              |
+| 🗄️ Databases  | SQL & Database Analytics                      |
+| 🐍 Programming | Python for Data Analytics                     |
+
+---
+
+# GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=transparent&hide_border=true&title_color=2C9AA8&icon_color=2C9AA8&text_color=8FA7AD&bg_color=00000000&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pallavii56&show_icons=true&theme=transparent&hide_border=true&title_color=2C9AA8&icon_color=2C9AA8&text_color=8FA7AD&bg_color=00000000&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=transparent&hide_border=true&title_color=2C9AA8&text_color=8FA7AD&bg_color=00000000" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavii56&layout=compact&theme=transparent&hide_border=true&title_color=2C9AA8&text_color=8FA7AD&bg_color=00000000" height="170"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Pallavii56&theme=transparent&hide_border=true&ring=2C9AA8&fire=2C9AA8&currStreakLabel=2C9AA8&sideLabels=8FA7AD&dates=8FA7AD"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pallavii56&bg_color=00000000&color=8FA7AD&line=2C9AA8&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -642,37 +612,31 @@ VIVA Institute of Technology
 
 ---
 
-# `10` · LET'S CONNECT
+# OPEN TO OPPORTUNITIES
 
 <div align="center">
 
-### Open to opportunities in
-
-**Data Analytics · Business Analytics · MIS · Reporting · Business Intelligence**
+### DATA ANALYST · BUSINESS ANALYST · MIS ANALYST · REPORTING ANALYST · BI ANALYST
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white"/>
+I'm interested in opportunities involving:
 
-<br><br>
+**Python · SQL · Excel · Power BI · Business Intelligence · Reporting · Data Quality · Automation**
 
-<a href="https://github.com/Pallavii56">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pallavii56">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-### Turning data into insights.
-
-### Turning insights into better decisions.
+**Turning data into insights. Turning insights into better decisions.**
 
 </div>
 
