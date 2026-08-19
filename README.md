@@ -1,104 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Pallavi%20Mohapatra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Pallavi%20Mohapatra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20ANALYTICS%20%7C%20POWER%20BI%20%7C%20PYTHON%20%7C%20SQL&descAlignY=60&descSize=17"/>
 
-<h2>👋 Hi, I'm Pallavi Mohapatra</h2>
+<br>
 
-<p>
-<b>Data Analyst</b> • <b>Business Analytics</b> • <b>Python</b> • <b>SQL</b> • <b>Power BI</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+insights;Building+Power+BI+dashboards+%26+automated+reports;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Exploring+AI-powered+analytics+%26+Natural+Language+SQL" />
 
-<p>
+<br><br>
+
 <a href="https://github.com/Pallavii56">
 <img src="https://img.shields.io/badge/GitHub-Pallavii56-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/">
-<img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Mohapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Pallavii56&label=Profile%20Views&color=203A43&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 👋 About Me
 
-🎓 **B.Tech Graduate in Artificial Intelligence & Machine Learning**
+I'm **Pallavi Mohapatra**, a B.Tech graduate in **Artificial Intelligence & Machine Learning** with a strong focus on **Data Analytics, Business Intelligence and reporting automation**.
 
-📊 Aspiring **Data Analyst / Business Analyst** with a strong interest in turning raw data into meaningful business insights.
+I enjoy taking messy datasets and turning them into something useful:
 
-💻 I work with **Python, SQL, Excel, Power BI, Pandas and NumPy** to clean, analyze, visualize and communicate data.
+**Raw Data → Clean Data → Analysis → KPIs → Dashboard → Business Insight**
 
-📈 My projects cover **business analytics, dashboards, reporting automation, data quality monitoring, customer analytics, operational analytics and forecasting**.
+My work combines **Python, SQL, Excel and Power BI** with practical business analysis. I build projects around customer behavior, revenue, operations, data quality, reporting automation and forecasting.
 
-🤖 I also explore **AI-powered analytics and Generative AI**, including natural-language SQL, automated business insights and intelligent reporting workflows.
+I'm also exploring **AI-powered analytics**, including natural-language SQL, automated insights and intelligent reporting workflows.
 
-🧠 I enjoy working on problems where data can help businesses understand performance, identify opportunities and make better decisions.
+### 🎯 Currently Looking For
+
+**Data Analyst · Junior Data Analyst · Business Analyst · MIS Analyst · Reporting Analyst · BI Analyst**
 
 📍 India
-
-💼 **Open to:** Data Analyst | Junior Data Analyst | Business Analyst | MIS Analyst | Reporting Analyst | BI Analyst
-
----
-
-# 🚀 What I Do
-
-```text
-              RAW DATA
-                  ↓
-        DATA CLEANING & QA
-                  ↓
-       EXPLORATORY ANALYSIS
-                  ↓
-       SQL & BUSINESS ANALYSIS
-                  ↓
-          KPI DEVELOPMENT
-                  ↓
-      POWER BI / EXCEL REPORTING
-                  ↓
-        BUSINESS INSIGHTS
-                  ↓
-     ACTIONABLE RECOMMENDATIONS
-```
-
-I focus on building analytics projects that resemble real business workflows rather than only performing basic data exploration.
+💼 Open to entry-level opportunities
 
 ---
 
-# 🎯 Current Focus
+# 🧠 My Analytics Mindset
 
-* 📊 Advanced SQL & Business Analytics
-* 📈 Power BI Dashboard Development
-* 📑 Excel Reporting & MIS
-* 🐍 Python for Data Analytics
-* 🧹 Data Quality & Validation
-* ⚡ Reporting & Data Automation
-* 🤖 AI-Powered Analytics
-* 💬 Natural Language SQL
-* 📉 Forecasting & Time-Series Analysis
-* 🏢 Business Intelligence
+> **I don't just ask what happened. I try to understand why it happened, what it means for the business, and what should happen next.**
+
+My projects are built around questions such as:
+
+* Which customers generate the most value?
+* Which products and regions drive revenue?
+* Where are businesses losing profitability?
+* What causes operational delays?
+* How can reporting be automated?
+* How can data quality problems be detected before they affect decisions?
+* How can AI make analytics more accessible?
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming & Querying
+### 📊 Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### 📊 Data Analytics & Visualization
-
-<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🗄️ SQL & Databases
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 📈 Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -109,15 +98,7 @@ I focus on building analytics projects that resemble real business workflows rat
 <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 📊 Analytics Tools
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### 🧰 Development Tools
+### ⚙️ Development & Workflow
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -130,36 +111,36 @@ I focus on building analytics projects that resemble real business workflows rat
 
 # 🚀 Featured Projects
 
-> A selection of end-to-end analytics projects focused on **business problems, data quality, automation, dashboards and AI-powered analytics.**
+### A portfolio focused on real business problems, not just datasets.
 
----
+<br>
 
-## 🥇 AI SQL Business Analyst
+## 01 · 🤖 AI SQL Business Analyst
+
+### **Natural Language → SQL → KPIs → Visualizations → AI Insights**
+
+An AI-powered business analytics application that lets users ask questions in plain English and converts them into **SQL queries, KPIs, charts and business insights**.
 
 <table>
 <tr>
-<td width="65%">
+<td width="50%">
 
-### 🤖 Natural Language → SQL → Insights
+### 🔥 What Makes It Different
 
-An AI-powered analytics application that allows users to ask business questions in natural language and automatically transforms them into **SQL queries, KPIs, visualizations and business insights**.
-
-**What makes it interesting**
-
-* 💬 Natural-language business queries
-* 🤖 AI-generated SQL using Groq
-* 🛡️ SQL safety validation
-* 📊 Automatic KPI generation
-* 📈 Dynamic visualizations
-* 🧠 AI-generated business insights
-* 📄 Excel & PDF report generation
-* 🖥️ Interactive Streamlit application
+* Natural-language business queries
+* AI-generated SQL using Groq
+* SQL safety validation
+* Dynamic KPI generation
+* Automatic visualizations
+* AI-generated business insights
+* Excel & PDF report generation
+* Interactive Streamlit interface
 
 </td>
 
-<td width="35%">
+<td width="50%">
 
-### 🧰 Stack
+### 🧰 Technology
 
 `Python`
 `SQL`
@@ -180,30 +161,30 @@ An AI-powered analytics application that allows users to ask business questions 
 <p align="center">
 
 <a href="https://github.com/Pallavii56/Ai-sql-business-analyst">
-<img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ai-sql-business-analyst-tfzymlexfkydkudeh7sg5f.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🥈 Rapido Ride Intelligence System
+## 02 · 🚖 Rapido Ride Intelligence System
+
+### **50,000 Rides · 35 Features · 22+ Engineered Features · 4 Power BI Dashboards**
+
+An end-to-end ride analytics project designed to understand **revenue, customer behavior, cancellations, demand patterns and operational performance**.
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
-### 🚖 50,000 Rides • 35 Features • 4 Power BI Dashboards
+### 📊 Project Scale
 
-An end-to-end ride analytics project designed to understand **revenue, customer behavior, cancellations, demand patterns and operational efficiency**.
-
-### 📌 Highlights
-
-| Metric              |     Result |
+| Metric              |      Value |
 | ------------------- | ---------: |
 | Ride Records        | **50,000** |
 | Features            |     **35** |
@@ -213,45 +194,42 @@ An end-to-end ride analytics project designed to understand **revenue, customer 
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
 ### 🔎 Business Analysis
 
 💰 Revenue performance
 👥 Customer behavior
-🚦 Cancellation analysis
+🚦 Cancellation patterns
 ⏰ Peak-hour demand
 📍 Operational performance
 📊 Service analysis
-
-### 🧰 Stack
-
-`Python` `SQL` `MySQL`
-`Pandas` `NumPy` `Power BI`
 
 </td>
 </tr>
 </table>
 
+**Stack:** `Python` `Pandas` `NumPy` `SQL` `MySQL` `Power BI`
+
 <p align="center">
 
 <a href="https://github.com/Pallavii56/Rapido-Ride-Intelligence-System">
-<img src="https://img.shields.io/badge/💻%20Explore%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🥉 Enterprise Data Quality Monitoring System
+## 03 · 🧹 Enterprise Data Quality Monitoring System
+
+### **Detect Problems Before They Reach Reports & Dashboards**
+
+A data quality monitoring framework designed to identify common data issues before they affect **business reporting, dashboards or analytics workflows**.
 
 <table>
 <tr>
-<td width="65%">
-
-### 🧹 Data Quality Before Data Analytics
-
-A data quality monitoring system designed to identify common data problems before datasets enter **reporting, dashboards or machine learning workflows**.
+<td width="50%">
 
 ### 🔍 Detects
 
@@ -260,468 +238,384 @@ A data quality monitoring system designed to identify common data problems befor
 * Invalid dates
 * Negative prices
 * Negative quantities
-* Statistical outliers
-
-### 📊 Produces
-
-**Enterprise Data Quality Score → Data Quality Grade → Business Insights → Automated Excel Report**
+* IQR-based outliers
 
 </td>
 
-<td width="35%">
+<td width="50%">
 
-### 🏆 Quality Framework
+### 📊 Produces
 
-**A+** Excellent
-**A** Good
-**B** Moderate
-**C** Poor
-**D** Critical
-
-### 🧰 Stack
-
-`Python`
-`Pandas`
-`NumPy`
-`Excel`
-`XlsxWriter`
-`OpenPyXL`
+* Enterprise Data Quality Score
+* Quality Grade from **A+ to D**
+* Business insights
+* Automated Excel reports
+* Executive KPI dashboard
 
 </td>
 </tr>
 </table>
+
+**Stack:** `Python` `Pandas` `NumPy` `Excel` `XlsxWriter` `OpenPyXL`
 
 <p align="center">
 
 <a href="https://github.com/Pallavii56/enterprise-data-quality-monitoring-system">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Automation & Business Reporting
+# 📊 More Analytics Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📈 Business Performance & Growth
+
+**Business Analytics · Customer Analytics · Profitability**
+
+Analyzing customer value, revenue, profitability, discount strategy and regional performance.
+
+**Highlights**
+
+* RFM segmentation
+* Revenue & profitability
+* Discount impact
+* Regional analysis
+* Product categories
+* Power BI dashboard
+
+`Python` `Pandas` `NumPy` `Power BI` `Excel`
+
+<br>
+
+<a href="https://github.com/Pallavii56/Business-Performance-Growth-Analysis">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ## 📊 Smart Sales Reporting System
 
-<table>
-<tr>
-<td width="60%">
+**Reporting Automation · Excel · Email Automation**
 
-### From Raw Sales Data → Automated Executive Report
+An automated reporting workflow that cleans sales data, calculates KPIs, generates Excel reports and delivers them through email.
 
-An end-to-end reporting automation workflow that cleans sales data, calculates KPIs, generates an executive Excel report and automatically delivers the report through email.
+**Highlights**
 
-**Workflow**
+* Automated cleaning
+* KPI generation
+* Executive summary
+* Excel dashboard
+* Regional analysis
+* Email automation
 
-```text
-Sales Data
-    ↓
-Automated Cleaning
-    ↓
-KPI Calculation
-    ↓
-Business Analysis
-    ↓
-Excel Dashboard
-    ↓
-Executive Summary
-    ↓
-Email Delivery
-```
+`Python` `Pandas` `Excel` `SMTP`
 
-</td>
-
-<td width="40%">
-
-### 📌 Analysis
-
-💰 Sales performance
-🌎 Regional analysis
-📦 Category analysis
-👥 Customer analysis
-🏆 Top products
-📅 Monthly trends
-
-### 🧰 Stack
-
-`Python` `Pandas`
-`NumPy` `Excel`
-`XlsxWriter` `OpenPyXL`
-`SMTP`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
+<br>
 
 <a href="https://github.com/Pallavii56/Smart-Sales-Reporting-System">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 📈 Business Intelligence & Customer Analytics
-
-## 💼 Business Performance & Growth Analysis
-
-<table>
-<tr>
-<td width="55%">
-
-### Turning Sales Data Into Business Strategy
-
-A business analytics project focused on understanding **customer value, profitability, discount strategy and regional performance**.
-
-### 💡 Business Questions
-
-❓ Which customers generate the most value?
-
-❓ How do discounts affect profit?
-
-❓ Which regions have strong sales but weak profitability?
-
-❓ Which customers should receive targeted marketing?
-
-❓ Where can businesses improve margins?
-
-</td>
-
-<td width="45%">
-
-### 📊 Analysis Areas
-
-👥 RFM segmentation
-💰 Revenue & profitability
-🏷️ Discount impact
-🌎 Regional performance
-📦 Product categories
-📊 Power BI dashboard
-
-### 🧰 Stack
-
-`Python` `Pandas`
-`NumPy` `Power BI` `Excel`
 
 </td>
 </tr>
-</table>
 
-<p align="center">
-
-<a href="https://github.com/Pallavii56/Business-Performance-Growth-Analysis">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 🍔 Operations Analytics
-
-## Zomato Delivery Data Analysis
-
-<table>
 <tr>
-<td width="65%">
+<td width="50%">
 
-### 🚦 What Drives Food Delivery Time?
+## 🍔 Zomato Delivery Analytics
 
-An end-to-end operational analytics project investigating how **traffic, weather, city, preparation time and peak hours** influence food delivery performance.
+**Operations Analytics · SQL · Power BI**
 
-### 🔎 Key Analysis
+Analyzing factors affecting food delivery time and operational efficiency.
 
-* 🚦 Traffic impact
-* 🌧️ Weather impact
-* 🌆 City-wise performance
-* ⏰ Peak delivery hours
-* 🍳 Preparation vs delivery time
-* 📊 Operational efficiency
+**Highlights**
 
-</td>
+* Traffic analysis
+* Weather analysis
+* City performance
+* Peak-hour analysis
+* Preparation vs delivery time
+* Power BI dashboard
 
-<td width="35%">
+`Python` `SQL` `MySQL` `Power BI`
 
-### 🧰 Stack
-
-`Python`
-`SQL`
-`MySQL`
-`Pandas`
-`Matplotlib`
-`Seaborn`
-`Power BI`
-
-### 🎯 Domain
-
-**Operations Analytics**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
+<br>
 
 <a href="https://github.com/Pallavii56/zomato-delivery-data-analysis">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 🛒 E-Commerce Analytics
-
-## SQL + Python Real-World E-Commerce Analytics
-
-<table>
-<tr>
-<td width="55%">
-
-### 🛍️ Understanding Customers, Products & Revenue
-
-A real-world style e-commerce analytics project combining **SQL and Python** to analyze revenue, purchasing behavior, product performance and customer value.
-
-### 📌 Core Analysis
-
-💰 Revenue trends
-🏆 Top products
-👥 Customer behavior
-🔄 Repeat customers
-📊 RFM segmentation
-📈 Business reporting
-
 </td>
 
-<td width="45%">
+<td width="50%">
 
-### 🧰 Stack
+## 🛒 E-Commerce Analytics
 
-`SQL`
-`MySQL`
-`Python`
-`Pandas`
-`NumPy`
-`Power BI`
+**Customer Analytics · SQL · Python · Power BI**
 
-### 📊 Focus
+A real-world style e-commerce analytics project covering revenue, customers, products and purchasing behavior.
 
-**Customer Analytics**
+**Highlights**
 
-**Revenue Analytics**
+* Revenue trends
+* Product analysis
+* Customer behavior
+* Repeat customers
+* RFM segmentation
+* Power BI reporting
 
-**Product Analytics**
+`SQL` `MySQL` `Python` `Power BI`
 
-</td>
-</tr>
-</table>
-
-<p align="center">
+<br>
 
 <a href="https://github.com/Pallavii56/SQL-Python-Real-World-E-Commerce-Analytics-Project">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 🤖 AI-Powered Dashboard
-
-## AI Business Analytics Dashboard
-
-<table>
-<tr>
-<td width="65%">
-
-### 📊 Interactive Business Intelligence Dashboard
-
-A Streamlit dashboard that allows users to upload business datasets and explore **KPIs, revenue performance, category performance and monthly trends** through an interactive interface.
-
-### ✨ Features
-
-📁 CSV upload
-📌 KPI dashboard
-💰 Revenue analytics
-🏆 Category performance
-📈 Monthly trends
-📥 Report export
-🎨 Interactive visualizations
-
-</td>
-
-<td width="35%">
-
-### 🧰 Stack
-
-`Python`
-`Streamlit`
-`Pandas`
-`Plotly`
-`CSV`
-
-### 🎯 Focus
-
-**Self-Service Analytics**
 
 </td>
 </tr>
-</table>
 
-<p align="center">
+<tr>
+<td width="50%">
+
+## 🤖 AI Business Analytics Dashboard
+
+**Self-Service BI · Streamlit · Interactive Analytics**
+
+An interactive dashboard for exploring uploaded business datasets through KPIs, revenue analysis and trend visualizations.
+
+**Highlights**
+
+* CSV upload
+* KPI dashboard
+* Revenue analytics
+* Category analysis
+* Monthly trends
+* Report export
+
+`Python` `Streamlit` `Pandas` `Plotly`
+
+<br>
 
 <a href="https://github.com/Pallavii56/AI-business-dashboard">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ai-business-dashboard-jymvaydp95wyqvuxm7nn7u.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 📉 Forecasting & Time-Series Analytics
-
-## ⛽ Natural Gas Price Forecasting
-
-<table>
-<tr>
-<td width="60%">
-
-### 🔮 Historical Data → Future Price Estimates
-
-A time-series analytics project analyzing historical natural gas prices and estimating future values using interpolation techniques.
-
-### 📌 Analysis
-
-📊 Historical price trends
-📅 Monthly analysis
-🧹 Data preprocessing
-📉 Time-series exploration
-🔮 Linear interpolation
-📈 Forecast visualization
-💻 CLI prediction tool
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
-### 🧰 Stack
+## ⛽ Natural Gas Price Forecasting
 
-`Python`
-`Pandas`
-`NumPy`
-`SciPy`
-`Matplotlib`
+**Time-Series Analytics · Forecasting**
 
-### 🎯 Focus
+Analyzing historical natural gas prices and estimating future values using interpolation techniques.
 
-**Forecasting & Time-Series**
+**Highlights**
+
+* Historical trend analysis
+* Monthly analysis
+* Data preprocessing
+* Time-series exploration
+* Linear interpolation
+* Forecast visualization
+
+`Python` `Pandas` `NumPy` `SciPy` `Matplotlib`
+
+<br>
+
+<a href="https://github.com/Pallavii56/Natural-Gas-Price-Forecasting">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-
-<a href="https://github.com/Pallavii56/Natural-Gas-Price-Forecasting">
-<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
 ---
 
-# 📊 Project Portfolio at a Glance
+# 🧩 Project Portfolio
 
-| Project                          | Domain               | Core Skills           | Output              |
-| -------------------------------- | -------------------- | --------------------- | ------------------- |
-| 🤖 AI SQL Business Analyst       | AI + BI              | Python, SQL, Groq     | AI Analytics App    |
-| 🚖 Rapido Ride Intelligence      | Operations           | SQL, Python, Power BI | 4 Dashboards        |
-| 🧹 Data Quality Monitoring       | Data Quality         | Python, Pandas, Excel | Automated DQ Report |
-| 📊 Smart Sales Reporting         | Reporting Automation | Python, Excel, SMTP   | Automated Reports   |
-| 💼 Business Performance & Growth | Business Analytics   | Python, Power BI      | BI Dashboard        |
-| 🍔 Zomato Delivery Analytics     | Operations           | SQL, Python, Power BI | Delivery Dashboard  |
-| 🛒 E-Commerce Analytics          | Customer Analytics   | SQL, Python, Power BI | BI Report           |
-| 🤖 AI Business Dashboard         | Self-Service BI      | Streamlit, Python     | Interactive App     |
-| ⛽ Natural Gas Forecasting        | Forecasting          | Python, SciPy         | Forecast Model      |
-
----
-
-# 📌 Analytics Skills Demonstrated
-
-| Area                  | Skills                                                   |
-| --------------------- | -------------------------------------------------------- |
-| 🐍 Programming        | Python, Pandas, NumPy                                    |
-| 🗄️ Databases         | SQL, MySQL, SQLite                                       |
-| 📊 BI & Dashboards    | Power BI, Streamlit                                      |
-| 📑 Reporting          | Excel, XlsxWriter, OpenPyXL                              |
-| 📈 Visualization      | Matplotlib, Seaborn, Plotly                              |
-| 🧹 Data Quality       | Validation, Missing Values, Duplicates, Outliers         |
-| 📊 Business Analytics | KPI Analysis, Revenue, Profitability, Customer Analytics |
-| 👥 Customer Analytics | RFM, Segmentation, Retention                             |
-| ⚙️ Automation         | Excel Automation, Reporting Automation, Email Automation |
-| 🤖 AI Analytics       | Natural Language SQL, AI Insights, Groq                  |
-| 📉 Forecasting        | Time-Series Analysis, Interpolation                      |
-| 🛠️ Tools             | Git, GitHub, VS Code, Jupyter                            |
+| Project                      | Domain             | Main Technologies         | Key Outcome                       |
+| ---------------------------- | ------------------ | ------------------------- | --------------------------------- |
+| 🤖 AI SQL Business Analyst   | AI + BI            | Python, SQL, Groq         | AI Analytics Application          |
+| 🚖 Rapido Ride Intelligence  | Operations         | SQL, Python, Power BI     | 4 Interactive Dashboards          |
+| 🧹 Data Quality Monitoring   | Data Quality       | Python, Pandas, Excel     | Automated DQ Reporting            |
+| 📊 Smart Sales Reporting     | Automation         | Python, Excel, SMTP       | Automated Reporting Workflow      |
+| 📈 Business Performance      | Business Analytics | Python, Power BI          | Customer & Profitability Analysis |
+| 🍔 Zomato Delivery Analytics | Operations         | SQL, Python, Power BI     | Delivery Performance Analysis     |
+| 🛒 E-Commerce Analytics      | Customer Analytics | SQL, Python, Power BI     | Revenue & Customer Insights       |
+| 🤖 AI Business Dashboard     | Self-Service BI    | Python, Streamlit, Plotly | Interactive Analytics App         |
+| ⛽ Natural Gas Forecasting    | Forecasting        | Python, SciPy             | Time-Series Forecasting           |
 
 ---
 
 # 🔄 My Analytics Workflow
 
-```text
-                 BUSINESS PROBLEM
-                       ↓
-                 DATA COLLECTION
-                       ↓
-              DATA CLEANING & QA
-                       ↓
-             EXPLORATORY ANALYSIS
-                       ↓
-              SQL / PYTHON ANALYSIS
-                       ↓
-                 KPI DEVELOPMENT
-                       ↓
-          POWER BI / EXCEL REPORTING
-                       ↓
-              BUSINESS INSIGHTS
-                       ↓
-            RECOMMENDATIONS & ACTION
-```
-
----
-
-# 📊 What My Projects Cover
-
 <div align="center">
 
-| 📊 Business Analytics |   🧹 Data Quality   |     ⚡ Automation    |
-| :-------------------: | :-----------------: | :-----------------: |
-|      KPI Analysis     |   Data Validation   |   Excel Automation  |
-|    Revenue Analysis   |    Missing Values   |  Report Generation  |
-|   Customer Analytics  | Duplicate Detection |   Email Automation  |
-|     Profitability     |  Outlier Detection  | Scheduled Reporting |
-
-| 📈 Business Intelligence |    🤖 AI Analytics   | 📉 Advanced Analytics |
-| :----------------------: | :------------------: | :-------------------: |
-|         Power BI         | Natural Language SQL |      Forecasting      |
-|  Interactive Dashboards  |      AI Insights     |      Time-Series      |
-|    Executive Reporting   |         Groq         |     Trend Analysis    |
-|    Business Reporting    |       Streamlit      |  Statistical Analysis |
+```text
+┌──────────────────────┐
+│   BUSINESS PROBLEM   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   DATA COLLECTION    │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   CLEANING & QA      │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   EDA & VALIDATION   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│  SQL / PYTHON ANALYSIS│
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   KPI DEVELOPMENT    │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ POWER BI / EXCEL BI  │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│  BUSINESS INSIGHTS   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ RECOMMENDATIONS      │
+└──────────────────────┘
+```
 
 </div>
 
 ---
 
-# 📚 Certifications & Learning
+# 📌 Analytics Capabilities
 
-* 🎓 B.Tech — Artificial Intelligence & Machine Learning
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🐍 Python
+
+Pandas
+NumPy
+EDA
+Automation
+Data Cleaning
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ SQL
+
+MySQL
+SQLite
+Joins
+Aggregations
+Business Queries
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Power BI
+
+KPIs
+Dashboards
+Business Reporting
+Interactive Visuals
+
+</td>
+
+<td width="25%" align="center">
+
+### 📑 Excel
+
+Reporting
+Automation
+Data Validation
+Executive Reports
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+### 🧹 Data Quality
+
+Validation
+Duplicates
+Missing Data
+Outliers
+
+</td>
+
+<td width="25%" align="center">
+
+### 👥 Customer Analytics
+
+RFM
+Segmentation
+Retention
+Customer Value
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️ Automation
+
+Reporting
+Excel
+Email
+Data Pipelines
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 AI Analytics
+
+NL → SQL
+AI Insights
+Groq
+Streamlit
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Education & Certifications
+
+### 🎓 B.Tech — Artificial Intelligence & Machine Learning
+
+**VIVA Institute of Technology**
+
+### 📜 Certifications & Learning
+
 * 📊 Cisco Data Analytics Essentials
 * 🤖 Machine Learning & Deep Learning Fundamentals
 * 📈 Power BI & Business Intelligence
@@ -730,7 +624,7 @@ A time-series analytics project analyzing historical natural gas prices and esti
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -752,7 +646,7 @@ A time-series analytics project analyzing historical natural gas prices and esti
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -762,16 +656,22 @@ A time-series analytics project analyzing historical natural gas prices and esti
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
+<p>
+If you're working on <b>data analytics, business intelligence, reporting automation or AI-powered analytics</b>, I'd be happy to connect.
+</p>
+
+<br>
+
 <a href="https://github.com/Pallavii56">
-<img src="https://img.shields.io/badge/GitHub-Pallavii56-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pallavi-mohapatra-ml/">
-<img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Mohapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -780,20 +680,30 @@ A time-series analytics project analyzing historical natural gas prices and esti
 
 # 💼 Open to Opportunities
 
-I'm currently looking for entry-level opportunities in:
+<div align="center">
 
-### **Data Analyst • Junior Data Analyst • Business Analyst • MIS Analyst • Reporting Analyst • BI Analyst**
+### **DATA ANALYST · BUSINESS ANALYST · MIS ANALYST · REPORTING ANALYST · BI ANALYST**
 
-I'm particularly interested in roles involving:
+<br>
 
-**SQL • Python • Excel • Power BI • Business Intelligence • Reporting • Data Quality • Data Automation**
+**Python · SQL · Excel · Power BI · Business Intelligence · Reporting · Data Quality · Data Automation**
+
+<br>
+
+📍 **India · Open to Entry-Level Opportunities**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Turning data into insights, dashboards and better business decisions.
+### Turning data into insights.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+### Turning insights into better decisions.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer"/>
 
 </div>
